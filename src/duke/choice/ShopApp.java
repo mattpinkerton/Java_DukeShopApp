@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Matthew Pinkerton
+ * @author mattpinkerton
  */
 public class ShopApp {
 

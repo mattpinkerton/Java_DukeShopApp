@@ -3,7 +3,7 @@ package duke.choice;
 
 /**
  *
- * @author Matthew Pinkerton
+ * @author mattpinkerton
  */
 public class Customer {
 
